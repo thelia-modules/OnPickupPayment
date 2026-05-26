@@ -1,5 +1,5 @@
 {
-  "name": "anselmi/on-pickup-payment-module",
+  "name": "thelia/on-pickup-payment-module",
   "description": "OnPickupPayment module for Thelia: payment collected at the counter upon pickup.",
   "license": "proprietary",
   "type": "thelia-module",
