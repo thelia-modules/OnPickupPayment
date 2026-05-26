@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="http://thelia.net/schema/dic/module"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://thelia.net/schema/dic/module http://thelia.net/schema/dic/module/module-2_2.xsd">
+    <fullnamespace>OnPickupPayment\OnPickupPayment</fullnamespace>
+    <descriptive locale="en_US">
+        <title>On-site Pickup Payment</title>
+        <description>Payment collected at the counter upon pickup.</description>
+    </descriptive>
+    <descriptive locale="fr_FR">
+        <title>Paiement sur place lors du retrait</title>
+        <description>Paiement encaissé au comptoir lors du retrait.</description>
+    </descriptive>
+    <languages>
+        <language>en_US</language>
+        <language>fr_FR</language>
+    </languages>
+    <version>1.0.0</version>
+    <author>
+        <name>Anselmi</name>
+        <email>support@openstudio.fr</email>
+    </author>
+    <type>payment</type>
+    <thelia>2.5.5</thelia>
+    <stability>prod</stability>
+</module>
